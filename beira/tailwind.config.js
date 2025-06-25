@@ -6,7 +6,12 @@ module.exports = {
     "./resources/**/*.vue",
   ],
   theme: {
-    extend: {},
+  extend: {
+    backgroundImage: {
+      'beira': "url('/images/beira1.jpg')",
+    },
   },
+},
+
   plugins: [],
 }

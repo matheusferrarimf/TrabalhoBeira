@@ -3,9 +3,9 @@
 @section('title', 'História da Comunidade Beira')
 
 @section('content')
-<h2 class="text-2xl font-bold mb-4">História da Comunidade Beira</h2>    
-    <div class="text-justify space-y-4">
-       
+
+    <div class="bg-black/60 backdrop-blur-md text-white p-8 rounded-xl shadow-lg">
+       <h2 class="text-2xl font-bold mb-4">História da Comunidade Beira</h2>    
         <h3 class="text-xl font-semibold mt-6">Origem</h3>
         <p class="mt-2">
             A Comunidade Beira surgiu por volta de 1940, logo após a conclusão da Estrada de Ferro Santa Catarina. Atraídos pelas oportunidades de trabalho ligadas à extração de madeira, muitos trabalhadores migraram para Rio do Sul. A cidade vivia um período de crescimento econômico impulsionado pelo extrativismo.
