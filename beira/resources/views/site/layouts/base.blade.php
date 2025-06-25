@@ -39,6 +39,7 @@
                     <a href="mailto:sofya.andrade@unidavi.edu.br" class="underline hover:text-gray-300">sofya.andrade@unidavi.edu.br</a>
                 </p>
                 <p><strong>Disciplina:</strong> Programação Web II</p>
+                <p>Informações coletadas a partir do livro Beira de rio: uma beira de histórias, de Jucelia Denise Hardt</p>
             </div>
         </footer>
 
